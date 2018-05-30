@@ -1,0 +1,16 @@
+{
+    "name": "Call",
+    "alias": "call",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Call\\Providers\\CallServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
