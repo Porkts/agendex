@@ -21,7 +21,7 @@
                             <tr>
                                 <th>Data</th>
                                 <th>Hora</th>
-                                <th>Status</th>
+                                <th>Situação</th>
                                 <th>Acoes</th>
                             </tr>
                         </thead>
@@ -37,7 +37,7 @@
 
                     <hr>
 
-                    <a type="button" href="{{ url('/call/create') }}" class="btn btn-success">Novo Agendamento</a>
+                    <a type="button" href="{{ route('call.create') }}" class="btn btn-success">Novo Agendamento</a>
                 </div>
             </div>
         </div>

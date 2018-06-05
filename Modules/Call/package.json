@@ -13,5 +13,10 @@
         "cross-env": "^5.1.4",
         "laravel-mix": "^2.1",
         "laravel-mix-merge-manifest": "^0.1.1"
+    },
+    "dependencies": {
+        "bootstrap-datetime-picker": "^2.4.4",
+        "flatpickr": "^4.5.0",
+        "jquery-datetimepicker": "^2.5.20"
     }
 }
